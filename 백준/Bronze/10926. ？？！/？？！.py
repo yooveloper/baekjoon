@@ -1,0 +1,3 @@
+# joonas??!
+
+print(input()+'??!')
